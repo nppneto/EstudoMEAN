@@ -1,0 +1,2 @@
+nodemon
+bower@1.3
